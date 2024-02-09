@@ -1,3 +1,4 @@
+<!DOCTYPE>
 <h1 align=center>Hi, I'm Uma ✌️</h1>
 <h3 align=center>Senior Technical Writer ✍️</h3>
 
@@ -31,13 +32,23 @@
   <li><a href="https://docs.clevertap.com/docs/csv-upload">CSV Upload</a></li>
 </ul>
 
-<h3>Integration Documentaion</h3>
+<h3>Integration Documentation</h3>
 <ul>
   <li><a href="https://developer.clevertap.com/docs/jio-tv-set-top-boxstb-integration-with-android-sdk">Smart TV</a></li>
 </ul>
 
+
 <h3>Technical Writing Test Papers</h3>
 <p>Created Technical Writing test papers for CleverTap:</p>
 <ul>
-  <li><a href=""></a></li>
+  <li><a href="https://github.com/selvam-uma/selvam-uma/blob/main/Technical%20Writing%20Test/Technical%20Writing%20Test%20-%20Junior%20Position.pdf">Junior Postion</a></li>
+  <li><a href="https://github.com/selvam-uma/selvam-uma/blob/main/Technical%20Writing%20Test/Technical%20Writing%20Test%20-%20Senior%20Position.pdf">Senior Postion</a></li>
 </ul>
+
+<h3>Author API Documentation</h3>
+<p>Authored the following API document at <a href="">Diebold:</a></p>
+<ul>
+  <li>Banking API Platform, Campaign API, Version 1.0.0.pdf</li>
+  <li>How to Request Access to an API-v1.pdf</li>
+</ul>
+<ins><h4>Note: This is a confidential document.</h4></ins>
