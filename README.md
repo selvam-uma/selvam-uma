@@ -1,7 +1,7 @@
 <!DOCTYPE>
-
-<h1 align=center>Hi, I'm Uma ✌️</h1>
-<h3 align=center>Senior Technical Writer ✍️</h3>
+<div style="width: 100%">
+<img style="width: 100%" src="./svgs/animated.svg" />
+</div>
 
 <h2>About me</h3>
 <p>A dynamic professional with total work experience of 10+ years in creating end-user documents and developer documents. Excellent organization and communication skills. Highly motivated individual with good coordination skills. Strong ability to work within tight deadlines. I have experience in using different authoring tools and creating various technical and non-technical documents.</p>
