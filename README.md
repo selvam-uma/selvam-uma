@@ -1,4 +1,5 @@
 <!DOCTYPE>
+
 <h1 align=center>Hi, I'm Uma ✌️</h1>
 <h3 align=center>Senior Technical Writer ✍️</h3>
 
@@ -48,7 +49,32 @@
 <h3>Author API Documentation</h3>
 <p>Authored the following API document at <a href="">Diebold:</a></p>
 <ul>
-  <li>Banking API Platform, Campaign API, Version 1.0.0.pdf</li>
-  <li>How to Request Access to an API-v1.pdf</li>
+  <li><a href="https://github.com/selvam-uma/private-docs/blob/main/Banking%20API%20Platform%2C%20Campaign%20API%2C%20Version%201.0.0.pdf">Banking API Platform, Campaign API, Version 1.0.0.pdf</a></li>
+  <li><a href="https://github.com/selvam-uma/private-docs/blob/main/How%20to%20Request%20Access%20to%20an%20API-v1.pdf">How to Request Access to an API-v1.pdf</a></li>
 </ul>
-<ins><h4>Note: This is a confidential document.</h4></ins>
+<ins><b>Note: This is a confidential document.</b></ins>
+
+<h3>Document Revamp</h3>
+<p>I'm skilled in improving documentation for better clarity and accessibility. I revamped the Zineone User Guide and Dev Guide, as well as the Journey landing page, by organizing content and adding tutorial videos to enhance user experience.</p>
+<ul>
+  <li><a href="https://docs.zineone.com/docs/concepts-and-components">Zineone User Guide:</a> Revamped the entire doc set</li>
+  <li> <a href="https://devguide.zineone.com/docs/integrating-android-sdk">Zineone Dev Guide:</a> Revamped the entire doc set</li>
+  <li><a href="https://docs.clevertap.com/docs/journeys">Journey:</a> Revamped the landing page. Added tutorial videos. This resulted in a few upvotes (customer feedback) on Readme.</li>
+</ul>
+
+<h3>Video Creation (Trainn Tool)</h3>
+<p>Proficient in creating engaging and informative videos for various purposes. I have created the following videos for CeleverTap using the Trainn tool:</p>
+<ul>
+  <li><a href="https://docs.clevertap.com/docs/journeys#journey-overview-video-tutorial">Journey Overview</a></li>
+  <li><a href="https://docs.clevertap.com/docs/journeys#create-a-sample-journey-video-tutorial">Journey Creation</a></li>
+  <li><a href="https://docs.clevertap.com/docs/scribe#scribe-overview-video-tutorial">Scribe</a></li>
+</ul>
+
+This resulted in a few upvotes (customer feedback) on Readme.'
+
+<h3>Enhanced Landing Pages for SDK Documents</h3>
+<p>Transformed the SDK landing page by introducing essential elements to provide users with comprehensive information. Expanded beyond a basic overview to include critical details such as SDK size, code size, integration high-level steps, and additional resources. This enhancement empowers users with the necessary insights to make informed decisions and streamline their integration process, significantly improving the page's utility and user experience. This resulted in a few upvotes (customer feedback) on Readme. Also, showed a reduction in customer tickets.</p>
+<ul>
+  <li><a href="https://developer.clevertap.com/docs/ios">iOS</a></li>
+  <li><a href="https://developer.clevertap.com/docs/android">Android</a></li>
+</ul>
