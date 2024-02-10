@@ -1,0 +1,147 @@
+
+<svg fill="none" viewBox="0 0 600 1228" width="600" height="1128" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <div class="h-[1128px] w-full space-y-2 bg-blue-950 p-2">
+        <!-- SISTER ONE -->
+        <div class="mt-4 flex flex-col">
+          <div class="flex space-x-8 pl-4">
+            <div class="border-r-[2.68px] border-slate-400 pr-36">
+              <div class="mt-4 h-[150px] w-[260px] overflow-hidden rounded-md bg-white">
+                <div class="h-[50px] w-full items-center bg-green-500 pl-2 pt-1 leading-3">
+                  <div class="text-lg font-bold text-white m-0">Senior Technical Writer</div>
+                  <div class="text-gray-100 font-semibold">CleverTap</div>
+                </div>
+
+                <div class="h-full min-h-3 w-full p-2 text-xs font-medium">Authored and updated User Guide, Developer Guide and Release Notes</div>
+              </div>
+            </div>
+            <div class="flex pt-2">
+              <div class="text-bold z-10 h-10 w-10 -translate-x-[53px] translate-y-0 rounded-full border-[3px] border-slate-400 bg-blue-950 ring-8 ring-blue-950"></div>
+            </div>
+
+            <div class="flex -translate-x-[4.6rem] min-w-full pt-[12px] py-1 text-lg font-bold text-white">2021-PRESENT</div>
+          </div>
+        </div>
+        <!-- SISTER TWO -->
+        <div class="mb-4 flex flex-col">
+          <div class="flex space-x-8 pl-4">
+            <div class="border-r-[2.68px] border-slate-400 pr-36">
+              <div class="mt-4 h-[150px] w-[260px] overflow-hidden rounded-md bg-white">
+                <div class="h-[50px] w-full items-center bg-red-500 pl-2 pt-1 leading-3">
+                  <div class="text-lg font-bold text-white m-0">Senior Technical Writer</div>
+                  <div class="text-gray-100 font-semibold">Diebold Nixdorf</div>
+                </div>
+
+                <div class="h-full min-h-3 w-full p-2 text-xs font-medium">
+                  <ul class="list-disc">
+                    <li>Creating Diebold Nixdorf Public API documentation.</li>
+                    <li>Creating API Reference documentation.</li>
+                    <li>Created How-To Guide, API uses cases and sequence diagrams.</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div class="flex pt-1">
+              <div class="z-10 h-16 w-16 -translate-x-[65px] rounded-full border-[3px] border-slate-400 bg-blue-950 ring-8 ring-blue-950"></div>
+            </div>
+            <div class="flex -translate-x-[5.35rem] pt-[20px] min-w-full py-1 text-lg font-bold text-white">2021-2023</div>
+          </div>
+        </div>
+
+        <div class="mb-4 flex flex-col">
+          <div class="flex space-x-8 pl-4">
+            <div class="border-r-[2.68px] border-slate-400 pr-36">
+              <div class="mt-4 h-[150px] w-[260px] overflow-hidden rounded-md bg-white">
+                <div class="h-[50px] w-full items-center bg-green-500 pl-2 pt-[6px] leading-[20px]">
+                  <div class="text-md font-bold text-white m-0">Technical Documentation Lead</div>
+                  <div class="text-gray-100 font-semibold">ZineOne, Inc</div>
+                </div>
+
+                <div class="h-full min-h-3 w-full p-2 text-xs font-medium">
+                  <ul>
+                    <li>Revamped User Guide and Developer’s Guide (SDK).</li>
+                    <li>Documented ZineOne REST APIs.</li>
+                    <li>Updated SDK documentation<li>
+                    <li>Created Getting Started Guide</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div class="flex pt-1">
+              <div class="z-10 h-20 w-20 -translate-x-[73.5px] rounded-full border-[3px] border-slate-400 bg-blue-950 ring-8 ring-blue-950"></div>
+            </div>
+            <div class="flex -translate-x-[5.9rem] pt-7 py-4 text-lg min-w-full font-bold text-white">2020-2021</div>
+          </div>
+        </div>
+
+        <div class="mb-4 flex flex-col">
+          <div class="flex space-x-8 pl-4">
+            <div class="border-r-[2.68px] border-slate-400 pr-36">
+              <div class="mt-4 h-[150px] w-[260px] overflow-hidden rounded-md bg-white">
+                <div class="h-[50px] w-full items-center bg-red-500 pl-2 pt-1 leading-3">
+                  <div class="text-lg font-bold text-white m-0">Senior Technical Writer</div>
+                  <div class="text-gray-100 font-semibold">SmartStream Technologies</div>
+                </div>
+
+                <div class="h-full min-h-3 w-full p-2 text-xs font-medium">Updated User Guides, Release Notes, and Administrator Guide.</div>
+              </div>
+            </div>
+            <div class="flex pt-1">
+              <div class="z-10 h-20 w-20 -translate-x-[73.5px] rounded-full border-[3px] border-slate-400 bg-blue-950 ring-8 ring-blue-950"></div>
+            </div>
+            <div class="flex -translate-x-[5.9rem] py-4 pt-8 text-lg min-w-full font-bold text-white">2018-2020</div>
+          </div>
+        </div>
+
+        <div class="mb-4 flex flex-col">
+          <div class="flex space-x-8 pl-4">
+            <div class="border-r-[2.68px] border-slate-400 pr-36">
+              <div class="mt-4 h-[150px] w-[260px] overflow-hidden rounded-md bg-white">
+                <div class="h-[50px] w-full items-center bg-green-500 pl-2 pt-1 leading-3">
+                  <div class="text-lg font-bold text-white m-0">Technical Writer</div>
+                  <div class="text-gray-100 font-semibold">Diebold Nixdorf</div>
+                </div>
+
+                <div class="h-full min-h-3 w-full p-2 text-xs font-medium">
+                  <ul>
+                    <li>Created Installation Guides, Configuration Guides, User Manuals, Release Notes, Product Bulletin, and API Guides.</li>
+                    <li>Implemented ISO standards for documentation team.</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div class="flex pt-1">
+              <div class="z-10 h-20 w-20 -translate-x-[73.5px] rounded-full border-[3px] border-slate-400 bg-blue-950 ring-8 ring-blue-950"></div>
+            </div>
+            <div class="flex -translate-x-[5.9rem] pt-8 min-w-full py-4 text-lg font-bold text-white">2014-2018</div>
+          </div>
+        </div>
+
+        <div class="mb-4 flex flex-col">
+          <div class="flex space-x-8 pl-4">
+            <div class="border-r-[2.68px] border-slate-400 pr-36">
+              <div class="mt-4 h-[180px] w-[260px] overflow-hidden rounded-md bg-white">
+                <div class="h-[50px] w-full items-center bg-red-500 pl-2 pt-1 leading-3">
+                  <div class="text-lg font-bold text-white m-0">Documentation Coordinator</div>
+                  <div class="text-gray-100 font-semibold">Hewlett-Packard</div>
+                </div>
+
+                <div class="h-full min-h-3 w-full p-2 text-xs font-medium">
+                  <ul>
+                    <li>Created Standard Operating Procedures (SOP) for Windows, UNIX, and Storage technology.</li>
+                    <li>Created Technical Operations Manual, Technical Architecture Manual, enterprise-wide rack diagrams, data center maps for multiple projects.</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div class="flex pt-1">
+              <div class="z-10 h-20 w-20 -translate-x-[73.5px] rounded-full border-[3px] border-slate-400 bg-blue-950 ring-8 ring-blue-950"></div>
+            </div>
+            <div class="flex -translate-x-[5.9rem] pt-8 min-w-full py-4 text-lg font-bold text-white">2011-2014</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>

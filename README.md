@@ -1,11 +1,21 @@
 <!DOCTYPE>
 <div style="width: 100%">
-<img style="width: 100%" src="./svgs/animated.svg" />
+<img style="width: 100%" src="./svgs/header.svg" />
 </div>
 
 <h2>About me</h3>
 <p>A dynamic professional with total work experience of 10+ years in creating end-user documents and developer documents. Excellent organization and communication skills. Highly motivated individual with good coordination skills. Strong ability to work within tight deadlines. I have experience in using different authoring tools and creating various technical and non-technical documents.</p>
-
+<div width="100%" height="80%">
+<img style="width: 100% ; height:20%" src="./svgs/mulesoft.svg" />
+<img style="width: 100% ; height:20%" src="./svgs/arbotext.svg">
+<img style="width: 100% ; height:20%" src="./svgs/framemaker.svg">
+<img style="width: 100% ; height:20%" src="./svgs/plantuml.svg">
+<img style="width: 100% ; height:20%" src="./svgs/visio.svg">
+<img style="width: 100% ; height:20%" src="./svgs/ptc.svg">
+<img style="width: 100% ; height:20%" src="./svgs/office.svg">
+<img style="width: 100% ; height:20%" src="./svgs/webworks.svg">
+<img style="width: 100% ; height:20%" src="./svgs/readme.svg">
+</div>
 <h2>Connect with me:</h3>
 <a href="https://linkedin.com/in/uma-selvam-6a4368136" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joel medicala" height="30" width="40" /></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=email@example.com" target="blank"> <img align="center" src="https://github.com/selvam-uma/selvam-uma/assets/159550065/77de1e85-9dc5-4632-9a25-567b2046528b" alt="uma89selvam@gmail.com" height="40" >uma89selvam@gmail.com</a>

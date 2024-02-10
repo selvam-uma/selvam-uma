@@ -1,0 +1,131 @@
+<svg fill="none" viewBox="0 0 253 75" width="253" height="75" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          width: fit-content;
+          height: fit-content;
+          padding: 0;
+          margin: 0;
+          background: #93afd3;
+          font-family: sans-serif;
+        }
+        .custom-button {
+          position: absolute;
+          top: 50%;
+          left: 50%;
+          transform: translate(-50%, -50%);
+          color: #ffffff;
+          overflow: hidden;
+          padding: 30px 70px;
+          font-size: 100%;
+          text-decoration: none;
+          letter-spacing: 2px;
+          text-transform: uppercase;
+          font-weight: bold;
+          box-shadow: 0 20px 50px rgb(255 255 255 / 5%);
+          /* Add background color */
+        --color-main: #5452ee;
+          --color-primary: #eeaeca;
+          --color-secondary: #94bbe9;
+          --color-tertiary: white;
+          background-color: #002b9d;
+            background: linear-gradient(-45deg, var(--color-main), var(--color-primary), var(--color-secondary), var(--color-tertiary));
+          background-size: 400% 400%;
+          animation: gradient 15s ease infinite;
+
+        }
+        @keyframes gradient {
+          0% {
+            background-position: 0% 50%;
+          }
+          50% {
+            background-position: 100% 50%;
+          }
+          100% {
+            background-position: 0% 50%;
+          }
+        }
+        .custom-button span:nth-child(1),
+        .custom-button span:nth-child(2),
+        .custom-button span:nth-child(3),
+        .custom-button span:nth-child(4) {
+          position: absolute;
+          background: linear-gradient(to right, #ffffff, #ffffff);
+          animation: gradient 15s ease infinite;
+        }
+        .custom-button span:nth-child(1) {
+          width: 100%;
+          height: 5px;
+          top: 0;
+          left: 0;
+          animation: animate1 2s linear infinite;
+        }
+        .custom-button span:nth-child(2) {
+          width: 5px;
+          height: 100%;
+          top: 0;
+          right: 0;
+          animation: animate2 2s linear infinite;
+          animation-delay: 1s;
+        }
+        .custom-button span:nth-child(3) {
+          width: 100%;
+          height: 5px;
+          left: 0;
+          bottom: 0;
+          animation: animate3 2s linear infinite;
+        }
+        .custom-button span:nth-child(4) {
+          width: 5px;
+          height: 100%;
+          top: 0;
+          left: 0;
+          animation: animate4 2s linear infinite;
+          animation-delay: 1s;
+        }
+        @keyframes animate1 {
+          0% {
+            transform: translateX(-100%);
+          }
+          100% {
+            transform: translateX(100%);
+          }
+        }
+        @keyframes animate2 {
+          0% {
+            transform: translateY(-100%);
+          }
+          100% {
+            transform: translateY(100%);
+          }
+        }
+        @keyframes animate3 {
+          0% {
+            transform: translateX(100%);
+          }
+          100% {
+            transform: translateX(-100%);
+          }
+        }
+        @keyframes animate4 {
+          0% {
+            transform: translateY(100%);
+          }
+          100% {
+            transform: translateY(-100%);
+          }
+        }
+      </style>
+
+      <div class="container">
+        <div class="custom-button">
+          <span></span>
+          <span></span>
+          <span></span>
+          <span></span>webworks
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
