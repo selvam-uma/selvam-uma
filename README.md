@@ -11,11 +11,12 @@
 <img style=""width="100%" height="20%" src="./svgs/arbotext.svg" />
 <img style="" width="22.5%" height=""  src="./svgs/framemaker.svg" />
 <img style="" width="19.7%" height="" src="./svgs/plantuml.svg" />
+<img style="" width="18%" src="./svgs/readme.svg" />
 <img style="" width="75%" height="" src="./svgs/visio.svg" />
 <img style="width: 22.5% ; height:20%" src="./svgs/ptc.svg" />
 <img style="width: 22.5% ; height:20%" src="./svgs/office.svg" />
 <img style="width: 22.5% ; height:20%" src="./svgs/webworks.svg" />
-<img style="" src="./svgs/readme.svg" />
+
 </div>
 <h2>Connect with me:</h3>
 <a href="https://linkedin.com/in/uma-selvam-6a4368136" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joel medicala" height="30" width="40" /></a>
