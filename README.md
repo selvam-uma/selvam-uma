@@ -9,12 +9,12 @@
 <h2>Tools</h2>
 <img style="" width="200" height="" src="./svgs/mulesoft.svg" />
 <img style=""width="100%" height="20%" src="./svgs/arbotext.svg" />
-<img style="" width="25%" height=""  src="./svgs/framemaker.svg" />
-<img style="" width="25%" height="" src="./svgs/plantuml.svg" />
+<img style="" width="22.5%" height=""  src="./svgs/framemaker.svg" />
+<img style="" width="19.7%" height="" src="./svgs/plantuml.svg" />
 <img style="" width="75%" height="" src="./svgs/visio.svg" />
-<img style="width: 25% ; height:20%" src="./svgs/ptc.svg" />
-<img style="width: 25% ; height:20%" src="./svgs/office.svg" />
-<img style="width: 25% ; height:20%" src="./svgs/webworks.svg" />
+<img style="width: 22.5% ; height:20%" src="./svgs/ptc.svg" />
+<img style="width: 22.5% ; height:20%" src="./svgs/office.svg" />
+<img style="width: 22.5% ; height:20%" src="./svgs/webworks.svg" />
 <img style="" src="./svgs/readme.svg" />
 </div>
 <h2>Connect with me:</h3>
