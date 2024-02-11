@@ -6,13 +6,17 @@
 <h2>About me</h2>
 <p>A dynamic professional with total work experience of 10+ years in creating end-user documents and developer documents. Excellent organization and communication skills. Highly motivated individual with good coordination skills. Strong ability to work within tight deadlines. I have experience in using different authoring tools and creating various technical and non-technical documents.</p>
 
+<h2>Connect with me:</h3>
+<a href="https://linkedin.com/in/uma-selvam-6a4368136" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joel medicala" height="30" width="40" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=email@example.com" target="blank"> <img align="center" src="https://github.com/selvam-uma/selvam-uma/assets/159550065/77de1e85-9dc5-4632-9a25-567b2046528b" alt="uma89selvam@gmail.com" height="40" >uma89selvam@gmail.com</a>
+
 <h2>Education</h2>
 <p><a href="https://annauniv.edu/">Bachelors of Technology (B.Tech.), Information Technology from S.I.ET, Anna University, Chennai (2007-2011)</a></p>
 
 <h2>Experience</h2>
 <ul>
   <li>
-    <h3>Senior Technical Writer <a href="https://clevertap.com/">CleverTap (2021-PRESENT)</a></h3>
+    <h3>Senior Technical Writer <a href="https://clevertap.com/">CleverTap (2023-PRESENT)</a></h3>
     <ul>
       <li>Authored and updated User Guide, Developer Guide and Release Notes</li>
     </ul>
@@ -57,20 +61,16 @@
 </ul>
 <h2>Tools</h2>
 <div style="width: 50%">
-<img style="" width="21.8%" height="" src="./svgs/mulesoft.svg" />
-<img style=""width="23%" height="" src="./svgs/arbotext.svg" />
-<img style="" width="25%" height=""  src="./svgs/framemaker.svg" />
-<img style="" width="22%" height="" src="./svgs/plantuml.svg" />
-<img style="" width="20%" src="./svgs/readme.svg" />
-<img style="" width="17.7%" height="" src="./svgs/visio.svg" />
-<img style="" width="26.3%" src="./svgs/ptc.svg" />
-<img style="" width="22%" src="./svgs/office.svg" />
-<img style="" width="22%" src="./svgs/webworks.svg" />
+<img src="https://github.com/selvam-uma/selvam-uma/assets/79764496/75b2d05e-d684-4dd3-925f-1d0a4ea552d4" height="40"/>
+<img src="https://github.com/selvam-uma/selvam-uma/assets/79764496/5d171e7d-1504-4a0e-95ce-01da8796c565" height="40"/>
+<img src="https://github.com/selvam-uma/selvam-uma/assets/79764496/0fe91a80-99f9-4a20-bf96-00d0f3afbc19" height="40"/>
+<img src="https://github.com/selvam-uma/selvam-uma/assets/79764496/8c917dc6-0be0-45ba-98c1-729700404fbe" height="40"/>
+<img src="https://github.com/selvam-uma/selvam-uma/assets/79764496/d6ad8d20-b08f-41be-9552-27c7fd60361b" height="40"/>
+<img src="https://github.com/selvam-uma/selvam-uma/assets/79764496/5eb151b8-cde7-4f76-99a8-2fb1c6497ab4" height="40"/>
+<img src="https://github.com/selvam-uma/selvam-uma/assets/79764496/2f351a4e-3446-455b-8f70-ba03642a42ef" height="40"/>
+<img src="https://github.com/selvam-uma/selvam-uma/assets/79764496/7ab5f17c-f44a-4f43-98e8-3cc84de06016" height="40"/>
+<img src="https://github.com/selvam-uma/selvam-uma/assets/79764496/fbae204e-948d-4f41-b9a5-75f53800db2d" height="40"/>
 </div>
-
-<h2>Connect with me:</h3>
-<a href="https://linkedin.com/in/uma-selvam-6a4368136" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joel medicala" height="30" width="40" /></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=email@example.com" target="blank"> <img align="center" src="https://github.com/selvam-uma/selvam-uma/assets/159550065/77de1e85-9dc5-4632-9a25-567b2046528b" alt="uma89selvam@gmail.com" height="40" >uma89selvam@gmail.com</a>
 
 <h2>Work Samples</h3>
 <ul>
