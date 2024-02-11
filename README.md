@@ -7,15 +7,15 @@
 <p>A dynamic professional with total work experience of 10+ years in creating end-user documents and developer documents. Excellent organization and communication skills. Highly motivated individual with good coordination skills. Strong ability to work within tight deadlines. I have experience in using different authoring tools and creating various technical and non-technical documents.</p>
 <div style="width: 50%">
 <h2>Tools</h2>
-<img style="" width="200" height="" src="./svgs/mulesoft.svg" />
-<img style=""width="100%" height="20%" src="./svgs/arbotext.svg" />
+<img style="" width="21.8%" height="" src="./svgs/mulesoft.svg" />
+<img style=""width="23%" height="" src="./svgs/arbotext.svg" />
 <img style="" width="25%" height=""  src="./svgs/framemaker.svg" />
 <img style="" width="22%" height="" src="./svgs/plantuml.svg" />
 <img style="" width="20%" src="./svgs/readme.svg" />
-<img style="" width="75%" height="" src="./svgs/visio.svg" />
-<img style="width: 22.5% ; height:20%" src="./svgs/ptc.svg" />
-<img style="width: 22.5% ; height:20%" src="./svgs/office.svg" />
-<img style="width: 22.5% ; height:20%" src="./svgs/webworks.svg" />
+<img style="" width="17.7%" height="" src="./svgs/visio.svg" />
+<img style="" width="26.3%" src="./svgs/ptc.svg" />
+<img style="" width="22%" src="./svgs/office.svg" />
+<img style="" width="22%" src="./svgs/webworks.svg" />
 
 </div>
 <h2>Connect with me:</h3>
