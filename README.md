@@ -5,8 +5,58 @@
 
 <h2>About me</h2>
 <p>A dynamic professional with total work experience of 10+ years in creating end-user documents and developer documents. Excellent organization and communication skills. Highly motivated individual with good coordination skills. Strong ability to work within tight deadlines. I have experience in using different authoring tools and creating various technical and non-technical documents.</p>
-<div style="width: 50%">
+
+<h2>Education</h2>
+<p><a href="https://annauniv.edu/">Bachelors of Technology (B.Tech.), Information Technology from S.I.ET, Anna University, Chennai (2007-2011)</a></p>
+
+<h2>Experience</h2>
+<ul>
+  <li>
+    <h3>Senior Technical Writer <a href="https://clevertap.com/">CleverTap (2021-PRESENT)</a></h3>
+    <ul>
+      <li>Authored and updated User Guide, Developer Guide and Release Notes</li>
+    </ul>
+  </li>
+  <li>
+    <h3>Senior Technical Writer <a href="https://www.dieboldnixdorf.com/en-us/">Diebold Nixdorf (2021-2023)</a></h3>
+    <ul>
+      <li>Creating Diebold Nixdorf Public API documentation.</li>
+      <li>Creating API Reference documentation.</li>
+      <li>Created How-To Guide, API uses cases and sequence diagrams.</li>
+    </ul>
+  </li>
+  <li>
+    <h3>Technical Documentation Lead <a href="https://www.sessionai.com/"> ZineOne, Inc (2020-2021)</a></h3>
+    <ul>
+      <li>Revamped User Guide and Developer’s Guide (SDK).</li>
+      <li>Documented ZineOne REST APIs.</li>
+      <li>Updated SDK documentation</li>
+      <li>Created Getting Started Guide</li>
+    </ul>
+  </li>
+  <li>
+    <h3>Senior Technical Writer <a href="https://www.smartstream-stp.com/">SmartStream Technologies (2018-2020)</a></h3>
+    <ul>
+      <li>Updated User Guides, Release Notes, and Administrator Guide.</li>
+    </ul>
+  </li>
+  <li>
+    <h3>Technical Writer <a href="https://www.dieboldnixdorf.com/en-us"> Diebold Nixdorf (2014-2018)</a></h3>
+    <ul>
+      <li>Created Installation Guides, Configuration Guides, User Manuals, Release Notes, Product Bulletin, and API Guides.</li>
+      <li>Implemented ISO standards for documentation team.</li>
+    </ul>
+  </li>
+  <li>
+    <h3>Documentation Coordinator <a href="https://www.hp.com/in-en/">Hewlett-Packard (2011-2014)</a></h3>
+    <ul>
+      <li>Created Standard Operating Procedures (SOP) for Windows, UNIX, and Storage technology.</li>
+      <li>Created Technical Operations Manual, Technical Architecture Manual, enterprise-wide rack diagrams, data center maps for multiple projects.</li>
+    </ul>
+  </li>
+</ul>
 <h2>Tools</h2>
+<div style="width: 50%">
 <img style="" width="21.8%" height="" src="./svgs/mulesoft.svg" />
 <img style=""width="23%" height="" src="./svgs/arbotext.svg" />
 <img style="" width="25%" height=""  src="./svgs/framemaker.svg" />
@@ -16,8 +66,8 @@
 <img style="" width="26.3%" src="./svgs/ptc.svg" />
 <img style="" width="22%" src="./svgs/office.svg" />
 <img style="" width="22%" src="./svgs/webworks.svg" />
-
 </div>
+
 <h2>Connect with me:</h3>
 <a href="https://linkedin.com/in/uma-selvam-6a4368136" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joel medicala" height="30" width="40" /></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=email@example.com" target="blank"> <img align="center" src="https://github.com/selvam-uma/selvam-uma/assets/159550065/77de1e85-9dc5-4632-9a25-567b2046528b" alt="uma89selvam@gmail.com" height="40" >uma89selvam@gmail.com</a>
