@@ -14,14 +14,13 @@
 <p><a href="https://annauniv.edu/">Bachelors of Technology (B.Tech.), Information Technology from S.I.ET, Anna University, Chennai (2007-2011)</a></p>
 
 <h2>Experience</h2>
-<ul>
+  <ul>
   <li>
     <h3>Lead Technical Writer <a href="https://www.browserstack.com/">BrowserStack (2024-PRESENT)</a></h3>
     <ul>
       <li>Create and maintain user-friendly documentation using the Docs as Code approach. </li>
     </ul>
   </li>
-<ul>
   <li>
     <h3>Senior Technical Writer <a href="https://clevertap.com/">CleverTap (2023-2024)</a></h3>
     <ul>
