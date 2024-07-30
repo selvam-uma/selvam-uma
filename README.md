@@ -16,7 +16,14 @@
 <h2>Experience</h2>
 <ul>
   <li>
-    <h3>Senior Technical Writer <a href="https://clevertap.com/">CleverTap (2023-PRESENT)</a></h3>
+    <h3>Lead Technical Writer <a href="https://www.browserstack.com/">BrowserStack (2024-PRESENT)</a></h3>
+    <ul>
+      <li>Create and maintain user-friendly documentation using the Docs as Code approach. </li>
+    </ul>
+  </li>
+<ul>
+  <li>
+    <h3>Senior Technical Writer <a href="https://clevertap.com/">CleverTap (2023-2024)</a></h3>
     <ul>
       <li>Authored and updated User Guide, Developer Guide and Release Notes</li>
     </ul>
