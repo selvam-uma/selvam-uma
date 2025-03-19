@@ -16,19 +16,19 @@
 <h2>Experience</h2>
   <ul>
   <li>
-    <h3>Lead Technical Writer <a href="https://www.browserstack.com/">BrowserStack (2024-PRESENT)</a></h3>
+    <h3>Lead Technical Writer, <a href="https://www.browserstack.com/"> BrowserStack (2024-PRESENT)</a></h3>
     <ul>
       <li>Create and maintain user-friendly documentation using the Docs as Code approach and Markdown. </li>
     </ul>
   </li>
   <li>
-    <h3>Senior Technical Writer <a href="https://clevertap.com/">CleverTap (2023-2024)</a></h3>
+    <h3>Senior Technical Writer, <a href="https://clevertap.com/">CleverTap (2023-2024)</a></h3>
     <ul>
       <li>Authored and updated User Guide, Developer Guide and Release Notes</li>
     </ul>
   </li>
   <li>
-    <h3>Senior Technical Writer <a href="https://www.dieboldnixdorf.com/en-us/">Diebold Nixdorf (2021-2023)</a></h3>
+    <h3>Senior Technical Writer, <a href="https://www.dieboldnixdorf.com/en-us/">Diebold Nixdorf (2021-2023)</a></h3>
     <ul>
       <li>Creating Diebold Nixdorf Public API documentation.</li>
       <li>Creating API Reference documentation.</li>
@@ -36,7 +36,7 @@
     </ul>
   </li>
   <li>
-    <h3>Technical Documentation Lead <a href="https://www.sessionai.com/"> ZineOne, Inc (2020-2021)</a></h3>
+    <h3>Technical Documentation Lead, <a href="https://www.sessionai.com/"> ZineOne, Inc (2020-2021)</a></h3>
     <ul>
       <li>Revamped User Guide and Developer’s Guide (SDK).</li>
       <li>Documented ZineOne REST APIs.</li>
@@ -45,20 +45,20 @@
     </ul>
   </li>
   <li>
-    <h3>Senior Technical Writer <a href="https://www.smartstream-stp.com/">SmartStream Technologies (2018-2020)</a></h3>
+    <h3>Senior Technical Writer, <a href="https://www.smartstream-stp.com/">SmartStream Technologies (2018-2020)</a></h3>
     <ul>
       <li>Updated User Guides, Release Notes, and Administrator Guide.</li>
     </ul>
   </li>
   <li>
-    <h3>Technical Writer <a href="https://www.dieboldnixdorf.com/en-us"> Diebold Nixdorf (2014-2018)</a></h3>
+    <h3>Technical Writer, <a href="https://www.dieboldnixdorf.com/en-us"> Diebold Nixdorf (2014-2018)</a></h3>
     <ul>
       <li>Created Installation Guides, Configuration Guides, User Manuals, Release Notes, Product Bulletin, and API Guides.</li>
       <li>Implemented ISO standards for documentation team.</li>
     </ul>
   </li>
   <li>
-    <h3>Documentation Coordinator <a href="https://www.hp.com/in-en/">Hewlett-Packard (2011-2014)</a></h3>
+    <h3>Documentation Coordinator, <a href="https://www.hp.com/in-en/">Hewlett-Packard (2011-2014)</a></h3>
     <ul>
       <li>Created Standard Operating Procedures (SOP) for Windows, UNIX, and Storage technology.</li>
       <li>Created Technical Operations Manual, Technical Architecture Manual, enterprise-wide rack diagrams, data center maps for multiple projects.</li>
