@@ -18,7 +18,7 @@
   <li>
     <h3>Lead Technical Writer <a href="https://www.browserstack.com/">BrowserStack (2024-PRESENT)</a></h3>
     <ul>
-      <li>Create and maintain user-friendly documentation using the Docs as Code approach. </li>
+      <li>Create and maintain user-friendly documentation using the Docs as Code approach and Markdown. </li>
     </ul>
   </li>
   <li>
