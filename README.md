@@ -111,8 +111,6 @@ A dynamic professional with **15+ years** of experience creating end-user and de
 <img src="./svgs/markdown.svg" height="40"/>
 <img src="./svgs/figma.svg" height="40"/>
 <img src="./svgs/github-desktop.svg" height="40"/>
-<img src="./svgs/claude-logo.svg" height="60"/>
-<img src="./svgs/github-copilot.svg" height="60"/>
 </div>
 
 
