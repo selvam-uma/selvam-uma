@@ -18,7 +18,8 @@
   <li>
     <h3>Lead Technical Writer, <a href="https://www.browserstack.com/"> BrowserStack (2024-PRESENT)</a></h3>
     <ul>
-      <li>Create and maintain user-friendly documentation using the Docs as Code approach and Markdown. </li>
+      <li>Create and maintain user-friendly documentation using the Docs as Code approach with GitHub and VS Code. </li>
+      <li>Author product documentation for low-code automation features. </li>
     </ul>
   </li>
   <li>
@@ -162,5 +163,15 @@ This resulted in a few upvotes (customer feedback) on Readme.'
   <li><a href="https://developer.clevertap.com/docs/ios">iOS</a></li>
   <li><a href="https://developer.clevertap.com/docs/android">Android</a></li>
 </ul>
+<li>
+<h3>Low Code Automation Product Documentation</h3>
+<p>Authored user-facing feature documentation for BrowserStack's Low Code Automation product, covering core test-recording capabilities and the newer AI-driven agentic testing workflow.</p>
+<ul>
+  <li><a href="https://www.browserstack.com/docs/low-code-automation/test-recording/test-email-workflows">Test Email Workflows</a></li>
+  <li><a href="https://www.browserstack.com/docs/low-code-automation/test-recording/conditional-flow">Conditional Flow (If-Else)</a></li>
+  <li><a href="https://www.browserstack.com/docs/low-code-automation/test-recording/loops">Loops</a></li>
+  <li><a href="https://www.browserstack.com/docs/low-code-automation/test-recording/browserstack-ai/agentic-testing">Agentic Testing (BrowserStack AI)</a></li>
+</ul>
+</li>
 </li>
 </ul>
